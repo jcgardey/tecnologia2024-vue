@@ -8,6 +8,7 @@ const productos = ref([]);
 const loading = ref(false);
 
 // comentario de ejemplo
+// otro comentario
 const crearProducto = ref(false);
 const productoSeleccionado = ref(null);
 

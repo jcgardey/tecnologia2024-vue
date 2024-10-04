@@ -2,6 +2,7 @@
 defineProps(['producto']);
 defineEmits(['click']);
 import placeholder from '../assets/placeholder.png';
+// otro comentario
 </script>
 
 <template>
