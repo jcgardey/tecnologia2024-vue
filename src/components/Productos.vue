@@ -7,6 +7,7 @@ import ModalEditarProducto from './ModalEditarProducto.vue';
 const productos = ref([]);
 const loading = ref(false);
 
+// comentario de ejemplo
 const crearProducto = ref(false);
 const productoSeleccionado = ref(null);
 
