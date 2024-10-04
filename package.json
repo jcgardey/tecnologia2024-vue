@@ -1,0 +1,30 @@
+{
+  "name": "vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.7.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.3.2",
+    "@storybook/addon-interactions": "^8.3.2",
+    "@storybook/addon-links": "^8.3.2",
+    "@storybook/blocks": "^8.3.2",
+    "@storybook/test": "^8.3.2",
+    "@storybook/vue3": "^8.3.2",
+    "@storybook/vue3-vite": "^8.3.2",
+    "@vitejs/plugin-vue": "^4.4.0",
+    "storybook": "^8.3.2",
+    "vite": "^4.4.11"
+  }
+}
