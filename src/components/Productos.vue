@@ -12,6 +12,7 @@ const loading = ref(false);
 const crearProducto = ref(false);
 const productoSeleccionado = ref(null);
 // comentario desarrollador 2
+// comentario nuevo
 
 function getProductos() {
   loading.value = true;
